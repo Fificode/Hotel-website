@@ -1,0 +1,44 @@
+#bed-icon{display: none;}
+#navbar .logo{
+    float: none;
+    text-align:center;
+}
+
+#navbar ul, #navbar ul li{float: none;}
+#navbar ul li a {padding: 5px;
+border-bottom: #444 dotted 1px;}
+
+#home-info{display: flex;
+    flex-direction: column;
+    
+}
+    .info-img{display: none;}
+    .info-content{width: 100%;
+    }
+    #showcase .showcase-content{padding-top: 100px;}
+
+    #features{display: flex;
+    flex-direction: column;}
+
+    .about{display: flex;
+    flex-direction: column;}
+    .about-pgraph{text-align: center;
+    margin: auto;}
+    .info-right{margin-top: 30px;}
+    
+    .info-left, .info-right{width: 100%;}
+    .l-heading{font-size: 35px;
+    text-align: center;}
+
+    #features .box{border-bottom: #fff dotted 1px;}
+    #rooms{display: flex; 
+        flex-direction: column;
+       }
+         
+.room1, .room2, .room3{
+   width: 100%;
+height: 400px;}
+#room-one, #room-two, #room-three{width: 100%;
+    margin-top: 20px;
+   }
+#room-two, #room-three{}
